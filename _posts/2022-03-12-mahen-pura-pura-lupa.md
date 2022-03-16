@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Mahen - Pura Pura Lupa"
-date:   2022-03-15 21:27:40
 categories: lirik mahen
 ---
 Pernah aku jatuh hati
